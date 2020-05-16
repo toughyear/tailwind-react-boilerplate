@@ -1,3 +1,7 @@
+# tailwind-react-boilerplate
+
+This is a create-react-app and tailwind based boilerplate with both development and production scripts (minified CSS).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
