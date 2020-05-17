@@ -1,5 +1,7 @@
 # tailwind-react-boilerplate :snowflake:
 
+[![GitHub license](https://img.shields.io/github/license/toughyear/tailwind-react-boilerplate?style=flat-square)](https://github.com/toughyear/tailwind-react-boilerplate/blob/master/LICENSE) [![Tailwind CSS](https://img.shields.io/badge/tailwind-css-blue?style=flat-square)](https://tailwindcss.com/) [![GitHub stars](https://img.shields.io/github/stars/toughyear/tailwind-react-boilerplate?style=flat-square)](https://github.com/toughyear/tailwind-react-boilerplate/stargazers)
+
 This is a create-react-app and tailwind based boilerplate with both development and production scripts (minified CSS).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
