@@ -36,12 +36,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### tree-shake unused styles and optimize your final build size
-When building for production, you should always use Tailwind's purge option to tree-shake unused styles and optimize your final build size. When removing unused styles with Tailwind, it's very hard to end up with more than 10kb of compressed CSS.
-
-To enable this option go to `tailwind.config.js` and set enable to true in purge object of configuration. Do this when you are generating build version.
-
-
 ### `npm test` :briefcase:
 
 Launches the test runner in the interactive watch mode.<br />
